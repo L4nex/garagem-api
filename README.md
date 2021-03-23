@@ -1,5 +1,4 @@
-Projeto de estudo desenvolvido em Java, sendo uma api para uma garagem de veiculos com autenticação de usuário seguindo a seguinte regra de negócio:
-Front a ser implementado em outro momento
+Projeto de estudo, sendo uma api para uma garagem de veiculos com autenticação de usuário seguindo a seguinte regra de negócio:
 
     O sistema deve permitir incluir, editar e excluir as marcas dos veículos, com os dados:
     - Nome
@@ -37,3 +36,5 @@ Front a ser implementado em outro momento
         - usuario1/usuario1
         - usuario2/usuario2
         - admin/admin
+
+Projeto desenvolvido em Java Spring, front a ser implementado em outro momento.
