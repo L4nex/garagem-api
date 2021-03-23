@@ -37,4 +37,4 @@ Projeto de estudo, sendo uma api para uma garagem de veiculos com autenticação
         - usuario2/usuario2
         - admin/admin
 
-Projeto desenvolvido em Java Spring, front a ser implementado em outro momento.
+Projeto desenvolvido em Java Spring, front a ser implementado em outro momento possívelmente em Angular.
